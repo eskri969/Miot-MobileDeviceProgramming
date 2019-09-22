@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Registration</string>
+    <string name="master_title">Internet of Things Master</string>
+    <string name="BYOD">Bring Your Own Device</string>
+</resources>
